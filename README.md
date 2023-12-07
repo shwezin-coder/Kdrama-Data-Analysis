@@ -42,7 +42,7 @@ pip install pandas numpy matplotlib prettytable seaborn
 
 ## Results
 
-Check the `Results` directory for visualizations and tabular presentations.
+Check the `Results` in Jupyter notebook file.
 
 ## Contributing
 
